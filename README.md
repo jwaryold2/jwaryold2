@@ -3,7 +3,7 @@
 <h1 align="center">Hi 😐 I'm Jason</h1>
 
 <div>
-<img align="right" width="500" alt="Shimarin" src="https://cdn.donmai.us/original/43/72/__iwakura_lain_serial_experiments_lain_drawn_by_toyoi_yuuta__4372e97c2d18812b45c3d2162fae96f0.gif"/>
+<img align="right" width="475" alt="Shimarin" src="https://cdn.donmai.us/original/43/72/__iwakura_lain_serial_experiments_lain_drawn_by_toyoi_yuuta__4372e97c2d18812b45c3d2162fae96f0.gif"/>
 
 <h2> / about me /</h2>
   
