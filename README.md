@@ -1,7 +1,5 @@
-
+<img src="https://cdn.donmai.us/original/8e/17/__original_drawn_by_dongq__8e1782d267726669831bfeca21fe7944.gif" alt="MasterHead" width="100%" />
 <div>
-<p align = center ><img src="https://cdn.donmai.us/original/8e/17/__original_drawn_by_dongq__8e1782d267726669831bfeca21fe7944.gif"> </p>
-
 <img align="right" width="400" alt="Shimarin" src="https://cdn.donmai.us/original/43/72/__iwakura_lain_serial_experiments_lain_drawn_by_toyoi_yuuta__4372e97c2d18812b45c3d2162fae96f0.gif"/>
 
 <h2> / about me /</h2>
