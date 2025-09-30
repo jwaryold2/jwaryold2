@@ -1,4 +1,6 @@
-<p align = center ><img src="https://cdn.donmai.us/original/1f/e1/__pocket_rumble_drawn_by_waneella__1fe13c8a72a8be3d59bc9a670fb1a639.gif" width=100% height=75%> </p>
+<p align="center">
+  <img src="https://cdn.donmai.us/original/1f/e1/__pocket_rumble_drawn_by_waneella__1fe13c8a72a8be3d59bc9a670fb1a639.gif" width="100%" height="75%">
+</p>
 
 <h1 align="center">Hi 😐 I'm Jason</h1>
 
@@ -56,17 +58,18 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jwaryold2&show_icons=true&locale=en" alt="jwaryold2" /></td>
-   <td><img src="https://streak-stats.demolab.com?user=jwaryold2" alt="jwaryold2" /></td>
-
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jwaryold2&show_icons=true&locale=en&cache_seconds=600&t=1" alt="jwaryold2" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=jwaryold2&cache_seconds=600&t=1" alt="jwaryold2" />
+    </td>
   </tr>
 </table>
 
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jwaryold2&show_icons=true&locale=en&layout=compact" alt="jwaryold2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jwaryold2&show_icons=true&locale=en&layout=compact&cache_seconds=600&t=1" alt="jwaryold2" />
 </p>
 
-
 ------
-Last Edited on: 03/17/2025
+Last Edited on: 09/30/2025
